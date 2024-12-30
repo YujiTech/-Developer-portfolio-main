@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://YujiTech.app/).
+## View live preview [here](https://Portfolio.app/).
 
 ---
 
@@ -133,7 +133,7 @@ export const personalData = {
   twitter: "https://twitter.com/John Martinez",
   stackOverflow: "https://stackoverflow.com/users/16840768/YujiTech",
   leetcode: "https://leetcode.com/YujiTech/",
-  devUsername: "said7388",
+  devUsername: "Renren",
   resume: "...",
 };
 ```
